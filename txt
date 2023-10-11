@@ -36,3 +36,51 @@ X-Powered-By: PHP/5.6.27
 Location: contact-form-thank-you.php?found=N
 
 
+
+asashdfkjashdfkjadshkfdf`'`\*
+asdjkh'
+
+
+You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'asdfa','0',0,'0','0','0',1,'0','askdfslksadjfkl')' at line 4
+
+
+SELECT * from tracking_id WHERE tracking_id,things,things = 'alksdjfaklj','first_value','second_value','third_value')
+
+what is Column count doesn't match value count at row 1
+
+tracking_id=alksdjfaklj,'asdf','safd
+
+subdomains
+cve -- shoadan , nmap 
+mx records
+dns recon
+
+
+MAIL FROM:complaints@fia.gov.pk
+RCPT TO:complaints@fia.gov.pk
+
+
+MAIL FROM:info@dgip.gov.pk
+RCPT TO:info@dgip.gov.pk
+MAIL TO:rootuser7788@proton.me
+RCPT TO:rootuser7788@proton.me
+RCPT TO:boundschain@gmail.com
+RCPT TO:admin
+RCPT TO:ed
+
+AUTH LOGIN PLAIN
+AUTH LOGIN UExBSU4=
+Then password
+
+VRFY root (to verify the user)
+VRFY blah
+
+
+EXPN test
+EXPN root
+EXPN sshd
+
+COMMANDS
+pleased to meet you, ENHANCEDSTATUSCODES, PIPELINING, 8BITMIME, SIZE 104857600, DSN, AUTH LOGIN PLAIN, STARTTLS, DELIVERBY, HELP
+
+
