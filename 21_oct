@@ -1,0 +1,44 @@
+https://github.com/CwEeR313/CVE-2023-3710
+
+
+
+213.120.252.42
+58.137.28.116
+58.137.51.66
+58.137.49.219
+58.137.49.218
+58.137.49.218
+41.220.227.118
+
+
+services scan 
+1. NMAP 
+2. Nikto scanner
+3. WAF checker
+
+subdomain fetch
+1. crt.sh
+2. subfinder 
+3. knock.py
+4. assetfinder
+5. waybackurls
+6. dnsrecon
+7. dnsenum
+8. sublist3r
+9. nmap -p 53 —script dns-brute ssracs.edu.in
+
+Check for live domain with httpx
+
+directory listing
+1. dirb
+2. 
+
+finding fuzzable parameters
+1. Parmspider
+2. 
+
+FUFF fuzzable data test CHECK for (self XXS, stored XSS, SQL Inj,)
+
+Login pages brute forcer
+
+make wordlist for username and password
